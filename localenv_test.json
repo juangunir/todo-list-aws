@@ -1,0 +1,25 @@
+{
+  "CreateTodoFunction": {
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  },
+  "ListTodosFunction": {
+    
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  },
+  "GetTodoFunction": {
+   
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  },
+  "TranslateTodoFunction": {
+   
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  },
+  "UpdateTodoFunction": {
+    
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  },
+  "DeleteTodoFunction": {
+    
+    "DYNAMODB_TABLE": "staging-TodosDynamoDbTable"
+  }
+}
